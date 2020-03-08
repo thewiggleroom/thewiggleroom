@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://thewiggleroom.github.io",
+    "site": "http://thewiggleroom.ca",
     "hubpress": "http://thewiggleroom.ca",
-    "theme": "//thewiggleroom.github.io/themes/casper",
-    "images": "https://thewiggleroom.github.io/images"
+    "theme": "//thewiggleroom.ca/themes/casper",
+    "images": "http://thewiggleroom.ca/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
